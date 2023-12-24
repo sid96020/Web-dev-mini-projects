@@ -31,6 +31,7 @@ The repository contains the list of awesome✨ &amp; cool web development beginn
 </div>
 <br>
 
+
 ## HOW TO CONTRIBUTE ? 👷 
 
 **1.** Fork [this](https://github.com/Ayushparikh-code/Web-dev-mini-projects) repository.
